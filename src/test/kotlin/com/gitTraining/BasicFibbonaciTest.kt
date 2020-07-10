@@ -2,6 +2,8 @@ package com.gitTraining
 
 import org.assertj.core.api.Java6Assertions.assertThat
 import org.junit.Test
+import kotlin.test.Test
+import kotlin.test.assertEquals
 
 class BasicFibbonaciTest {
     @Test
